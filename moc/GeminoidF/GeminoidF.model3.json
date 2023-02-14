@@ -80,9 +80,7 @@
 		],
 		"Motions":{
 			"Idle": [
-				{
-					"File": "../../motions/wait/blinking.motion3.json"
-				},
+
 				{
 					"File": "../../motions/wait/01.motion3.json"
 				},
