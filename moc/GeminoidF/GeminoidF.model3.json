@@ -104,6 +104,16 @@
 				{
 					"File": "../../motions/Happy/Happy_01.exp3.json"
 				}
+			],
+			"StartSpeak":[
+				{
+					"File": "../../motions/Happy/Happy_01.exp3.json"
+				}
+			],
+			"All":[
+				{
+					"File": "../../motions/Happy/Happy_01.exp3.json"
+				}
 			]
 		}
 	},
