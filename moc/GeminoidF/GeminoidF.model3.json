@@ -10,11 +10,11 @@
 		"Expressions": [
 			{
 				"Name": "default",
-				"File": "../../motions/Happy/Happy_10.exp3.json"
+				"File": "../../motions/Disgust/Disgust_01.exp3.json"
 			},
 			{
 				"Name": "nomal1",
-				"File": "../../motions/Happy/Happy_10.exp3.json"
+				"File": "../../motions/Disgust/Disgust_01.exp3.json"
 			},
 			{
 				"Name": "happy11-1",
@@ -87,22 +87,22 @@
 			],
 			"Dislike": [
 				{
-					"File": "../../motions/Sad/Sad01.motion3.json"
+					"File": "../../motions/Sad/Sad10.exp3.json"
 				}
 			],
 			"Like": [
 				{
-					"File": "../../motions/Happy/Happy01.motion3.json"
+					"File": "../../motions/Happy/Happy_05.exp3.json"
 				}
 			],
 			"Love": [
 				{
-					"File": "../../motions/Happy/Happy02.motion3.json"
+					"File": "../../motions/Happy/Happy_10.exp3.json"
 				}
 			],
 			"Normal": [
 				{
-					"File": "../../motions/Happy/Happy_10.exp3.json"
+					"File": "../../motions/Happy/Happy_01.exp3.json"
 				}
 			]
 		}
