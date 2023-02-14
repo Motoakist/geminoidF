@@ -267,6 +267,11 @@
 			"Name": "おじぎ"
 		},
 		{
+			"Id": "ParamNoridashi",
+			"GroupId": "ParamGroup11",
+			"Name": "乗り出し"
+		},
+		{
 			"Id": "ParamFHC",
 			"GroupId": "ParamGroup12",
 			"Name": "前髪C"
