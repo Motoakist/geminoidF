@@ -82,13 +82,7 @@
 			"Idle": [
 
 				{
-					"File": "../../motions/wait/01.motion3.json"
-				},
-				{
-					"File": "../../motions/wait/02.motion3.json"
-				},
-				{
-					"File": "../../motions/wait/03.motion3.json"
+					"File": "../../motions/wait/blinking.motion3.json"
 				}
 			],
 			"Dislike": [
