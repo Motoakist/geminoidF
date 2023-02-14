@@ -84,6 +84,9 @@
 				{
 					"File": "../../motions/wait/blinking.motion3.json"
 				}
+				,{
+					"File": "../../motions/Disgust/Disgust_01.exp3.json"
+				}
 			],
 			"Dislike": [
 				{
