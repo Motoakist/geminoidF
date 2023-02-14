@@ -10,11 +10,11 @@
 		"Expressions": [
 			{
 				"Name": "default",
-				"File": "../../motions/Happy/Happy_01.exp3.json"
+				"File": "../../motions/Happy/Happy_10.exp3.json"
 			},
 			{
 				"Name": "nomal1",
-				"File": "../../motions/Happy/Happy_01.exp3.json"
+				"File": "../../motions/Happy/Happy_10.exp3.json"
 			},
 			{
 				"Name": "happy11-1",
@@ -102,7 +102,7 @@
 			],
 			"Normal": [
 				{
-					"File": "../../motions/Happy/Happy_01.exp3.json"
+					"File": "../../motions/Happy/Happy_10.exp3.json"
 				}
 			]
 		}
