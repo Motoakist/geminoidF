@@ -6,7 +6,114 @@
 			"GeminoidF.8192/texture_00.png"
 		],
 		"Physics": "GeminoidF.physics3.json",
-		"DisplayInfo": "GeminoidF.cdi3.json"
+		"DisplayInfo": "GeminoidF.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "default",
+				"File": "../../motions/Happy/Happy_01.exp3.json"
+			},
+			{
+				"Name": "nomal",
+				"File": "../../motions/Happy/Happy_01.exp3.json"
+			},
+			{
+				"Name": "happy11-1",
+				"File": "../../motions/Happy/Happy_01.exp3.json"
+			},{
+				"Name": "happy11-2",
+				"File": "../../motions/Happy/Happy_02.exp3.json"
+			},{
+				"Name": "happy11-3",
+				"File": "../../motions/Happy/Happy_03.exp3.json"
+			},{
+				"Name": "happy11-4",
+				"File": "../../motions/Happy/Happy_04.exp3.json"
+			},{
+				"Name": "happy11-5",
+				"File": "../../motions/Happy/Happy_05.exp3.json"
+			},{
+				"Name": "happy11-6",
+				"File": "../../motions/Happy/Happy_06.exp3.json"
+			},{
+				"Name": "happy11-7",
+				"File": "../../motions/Happy/Happy_07.exp3.json"
+			},{
+				"Name": "happy11-8",
+				"File": "../../motions/Happy/Happy_08.exp3.json"
+			},{
+				"Name": "happy11-9",
+				"File": "../../motions/Happy/Happy_09.exp3.json"
+			},{
+				"Name": "happy11-10",
+				"File": "../../motions/Happy/Happy_10.exp3.json"
+			},{
+				"Name": "anger11-1",
+				"File": "../../motions/Anger/Anger_01.exp3.json"
+			},{
+				"Name": "anger11-2",
+				"File": "../../motions/Anger/Anger_02.exp3.json"
+			},{
+				"Name": "anger11-3",
+				"File": "../../motions/Anger/Anger_03.exp3.json"
+			},{
+				"Name": "anger11-4",
+				"File": "../../motions/Anger/Anger_04.exp3.json"
+			},{
+				"Name": "anger11-5",
+				"File": "../../motions/Anger/Anger_05.exp3.json"
+			},{
+				"Name": "anger11-6",
+				"File": "../../motions/Anger/Anger_06.exp3.json"
+			},{
+				"Name": "anger11-7",
+				"File": "../../motions/Anger/Anger_07.exp3.json"
+			},{
+				"Name": "anger11-8",
+				"File": "../../motions/Anger/Anger_08.exp3.json"
+			},{
+				"Name": "anger11-9",
+				"File": "../../motions/Anger/Anger_09.exp3.json"
+			},{
+				"Name": "anger11-10",
+				"File": "../../motions/Anger/Anger_10.exp3.json"
+			}
+		],
+		"Motions":{
+			"Idle": [
+				{
+					"File": "../../motions/blinking.motion3.json"
+				},
+				{
+					"File": "../../motions/01.motion3.json"
+				},
+				{
+					"File": "../../motions/02.motion3.json"
+				},
+				{
+					"File": "../../motions/03.motion3.json"
+				}
+			],
+			"Dislike": [
+				{
+					"File": "../../motions/Sad/Sad01.motion3.json"
+				}
+			],
+			"Like": [
+				{
+					"File": "../../motions/Happy/Happy01.motion3.json"
+				}
+			],
+			"Love": [
+				{
+					"File": "../../motions/Happy/Happy02.motion3.json"
+				}
+			],
+			"Normal": [
+				{
+					"File": "../../motions/Happy/Happy_01.exp3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
