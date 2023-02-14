@@ -110,7 +110,7 @@
 			],
 			"Normal": [
 				{
-					"File": "../../motions/blinking.motion3.json"
+					"File": "../../motions/wait/blinking.motion3.json"
 				}
 			]
 		}
