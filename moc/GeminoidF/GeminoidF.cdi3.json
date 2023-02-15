@@ -7,12 +7,12 @@
 			"Name": "ニュートラル"
 		},
 		{
-			"Id": "ParamBrowL_Happy2",
+			"Id": "ParamBrowL_Joy2",
 			"GroupId": "ParamGroup",
 			"Name": "左眉　変形"
 		},
 		{
-			"Id": "ParamBrowR_Happy2",
+			"Id": "ParamBrowR_Joy2",
 			"GroupId": "ParamGroup",
 			"Name": "右眉　変形"
 		},
@@ -37,32 +37,32 @@
 			"Name": "口　開閉"
 		},
 		{
-			"Id": "ParamHappy",
+			"Id": "ParamJoy",
 			"GroupId": "ParamGroup2",
 			"Name": "喜び"
 		},
 		{
-			"Id": "ParamEyeLOpen_Happy",
+			"Id": "ParamEyeLOpen_Joy",
 			"GroupId": "ParamGroup2",
 			"Name": "左目　開閉"
 		},
 		{
-			"Id": "ParamEyeROpen_Happy",
+			"Id": "ParamEyeROpen_Joy",
 			"GroupId": "ParamGroup2",
 			"Name": "右目　開閉"
 		},
 		{
-			"Id": "ParamBrowL_Happy",
+			"Id": "ParamBrowL_Joy",
 			"GroupId": "ParamGroup2",
 			"Name": "左眉　変形"
 		},
 		{
-			"Id": "ParamBrowR_Happy",
+			"Id": "ParamBrowR_Joy",
 			"GroupId": "ParamGroup2",
 			"Name": "右眉　変形"
 		},
 		{
-			"Id": "ParamMouth_Happy",
+			"Id": "ParamMouth_Joy",
 			"GroupId": "ParamGroup2",
 			"Name": "口　変形"
 		},
