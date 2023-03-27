@@ -6,17 +6,135 @@
 			"GeminoidF_new.8192/texture_00.png"
 		],
 		"Physics": "GeminoidF_new.physics3.json",
-		"DisplayInfo": "GeminoidF_new.cdi3.json"
+		"DisplayInfo": "GeminoidF_new.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "default",
+				"File": "../../motion/Disgust/Disgust_01.exp3.json"
+			},
+			{
+				"Name": "nomal1",
+				"File": "../../motion/Disgust/Disgust_01.exp3.json"
+			},
+			{
+				"Name": "happy11-1",
+				"File": "../../motion/Joy/Joy_01.exp3.json"
+			},{
+				"Name": "happy11-2",
+				"File": "../../motion/Joy/Joy_02.exp3.json"
+			},{
+				"Name": "happy11-3",
+				"File": "../../motion/Joy/Joy_03.exp3.json"
+			},{
+				"Name": "happy11-4",
+				"File": "../../motion/Joy/Joy_04.exp3.json"
+			},{
+				"Name": "happy11-5",
+				"File": "../../motion/Joy/Joy_05.exp3.json"
+			},{
+				"Name": "happy11-6",
+				"File": "../../motion/Joy/Joy_06.exp3.json"
+			},{
+				"Name": "happy11-7",
+				"File": "../../motion/Joy/Joy_07.exp3.json"
+			},{
+				"Name": "happy11-8",
+				"File": "../../motion/Joy/Joy_08.exp3.json"
+			},{
+				"Name": "happy11-9",
+				"File": "../../motion/Joy/Joy_09.exp3.json"
+			},{
+				"Name": "happy11-10",
+				"File": "../../motion/Joy/Joy_10.exp3.json"
+			},{
+				"Name": "anger11-1",
+				"File": "../../motion/Anger/Anger_01.exp3.json"
+			},{
+				"Name": "anger11-2",
+				"File": "../../motion/Anger/Anger_02.exp3.json"
+			},{
+				"Name": "anger11-3",
+				"File": "../../motion/Anger/Anger_03.exp3.json"
+			},{
+				"Name": "anger11-4",
+				"File": "../../motion/Anger/Anger_04.exp3.json"
+			},{
+				"Name": "anger11-5",
+				"File": "../../motion/Anger/Anger_05.exp3.json"
+			},{
+				"Name": "anger11-6",
+				"File": "../../motion/Anger/Anger_06.exp3.json"
+			},{
+				"Name": "anger11-7",
+				"File": "../../motion/Anger/Anger_07.exp3.json"
+			},{
+				"Name": "anger11-8",
+				"File": "../../motion/Anger/Anger_08.exp3.json"
+			},{
+				"Name": "anger11-9",
+				"File": "../../motion/Anger/Anger_09.exp3.json"
+			},{
+				"Name": "anger11-10",
+				"File": "../../motion/Anger/Anger_10.exp3.json"
+			}
+		],
+		"Motions":{
+			"Idle": [
+
+				{
+					"File": "../../motion/waiting/blinking.motion3.json"
+				}
+				,{
+					"File": "../../motion/waiting/01.motion3.json"
+				}
+				,{
+					"File": "../../motion/waiting/02.motion3.json"
+				}
+			],
+			"Dislike": [
+				{
+					"File": "../../motion/Anger/Anger_10.exp3.json"
+				}
+			],
+			"Like": [
+				{
+					"File": "../../motion/Joy/Joy_05.exp3.json"
+				}
+			],
+			"Love": [
+				{
+					"File": "../../motion/Joy/Joy_10.exp3.json"
+				}
+			],
+			"Normal": [
+				{
+					"File": "../../motion/Disgust/Disgust_01.exp3.json"
+				}
+			],
+			"StartSpeak":[
+				{
+					"File": "../../motion/Disgust/Disgust_01.exp3.json"
+				}
+			],
+			"All":[
+				{
+					"File": "../../motion/Disgust/Disgust_01.exp3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
 		},
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": []
 		}
 	]
