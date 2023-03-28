@@ -109,7 +109,7 @@
 			],
 			"Bow":[
 				{
-					"File": "../../motion/bow_backward/bow.exp3.json"
+					"File": "../../motion/bow_backward/bow.motion3.json"
 				}
 			],
 			"All":[
