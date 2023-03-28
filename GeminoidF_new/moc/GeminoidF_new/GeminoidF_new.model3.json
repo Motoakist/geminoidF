@@ -107,6 +107,11 @@
 					"File": "../../motion/Joy/Joy_01.exp3.json"
 				}
 			],
+			"Bow":[
+				{
+					"File": "../../motion/bow_backward/bow.exp3.json"
+				}
+			],
 			"All":[
 				{
 					"File": "../../motion/Joy/Joy_01.exp3.json"
