@@ -84,22 +84,22 @@
 			],
 			"Dislike": [
 				{
-					"File": "../../motion/Anger/Anger_10.exp3.json"
+					"File": "../../motion/motions/stare_middle_left.motion3.json"
 				}
 			],
 			"Like": [
 				{
-					"File": "../../motion/Joy/Joy_05.exp3.json"
+					"File": "../../motion/motions/stare_left.motion3.json"
 				}
 			],
 			"Love": [
 				{
-					"File": "../../motion/Joy/Joy_10.exp3.json"
+					"File": "../../motion/motions/stare_right.motion3.json"
 				}
 			],
 			"Normal": [
 				{
-					"File": "../../motion/Joy/Joy_01.exp3.json"
+					"File": "../../motion/motions/stare_,middle_right.motion3.json"
 				}
 			],
 			"StartSpeak":[
