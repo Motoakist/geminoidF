@@ -81,10 +81,97 @@
 		"Motions":{
 			"Idle": [
 				{
-					"File": "../../motion/motions/idle1.motion3.json"
+					"File": "../../motion/motions/idle3.motion3.json"
 				},
 				{
-					"File": "../../motion/motions/idle2.motion3.json"
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
+				},
+				{
+					"File": "../../motion/motions/idle4.motion3.json"
 				}
 			],
 			"Stare_middle_left": [
