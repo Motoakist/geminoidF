@@ -87,6 +87,26 @@
 					"File": "../../motion/motions/idle2.motion3.json"
 				}
 			],
+			"Stare_middle_left": [
+				{
+					"File": "../../motion/motions/stare_middle_left.motion3.json"
+				}
+			],
+			"Stare_left": [
+				{
+					"File": "../../motion/motions/stare_left.motion3.json"
+				}
+			],
+			"Stare_right": [
+				{
+					"File": "../../motion/motions/stare_right.motion3.json"
+				}
+			],
+			"Stare_middle_right": [
+				{
+					"File": "../../motion/motions/stare_middle_right.motion3.json"
+				}
+			],
 			"Dislike": [
 				{
 					"File": "../../motion/motions/stare_middle_left.motion3.json"
