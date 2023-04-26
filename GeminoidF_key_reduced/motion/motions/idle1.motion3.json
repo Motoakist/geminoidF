@@ -6,8 +6,8 @@
 		"Loop": true,
 		"AreBeziersRestricted": false,
 		"CurveCount": 5,
-		"TotalSegmentCount": 6,
-		"TotalPointCount": 17,
+		"TotalSegmentCount": 9,
+		"TotalPointCount": 30,
 		"UserDataCount": 0,
 		"TotalUserDataSize": 0
 	},
@@ -18,8 +18,11 @@
 			"Segments": [
 				0,
 				0,
+				0.133,
 				0,
-				1.5,
+
+				0.01,
+
 				0
 			]
 		},
@@ -29,8 +32,9 @@
 			"Segments": [
 				0,
 				0,
-				0,
-				1.5,
+
+				0.01,
+
 				0
 			]
 		},
@@ -41,7 +45,6 @@
 				0,
 				0,
 				0,
-				1.5,
 				0
 			]
 		},
