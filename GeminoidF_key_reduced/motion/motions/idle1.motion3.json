@@ -1,0 +1,59 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3.333,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 2,
+		"TotalSegmentCount": 5,
+		"TotalPointCount": 13,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamBow",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.667,
+				0,
+				1.333,
+				5,
+				2,
+				5,
+				1,
+				2.433,
+				5,
+				2.867,
+				0,
+				3.3,
+				0,
+				0,
+				3.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamNoridashi",
+			"Segments": [
+				0,
+				0,
+				1,
+				1.1,
+				0,
+				2.2,
+				0,
+				3.3,
+				0,
+				0,
+				3.333,
+				0
+			]
+		}
+	]
+}
