@@ -80,21 +80,7 @@
 		],
 		"Motions":{
 			"Idle": [
-				{
-					"File": "../../motion/motions/idle1.motion3.json"
-				},
-				{
-					"File": "../../motion/motions/idle1-1.motion3.json"
-				},
-				{
-					"File": "../../motion/motions/idle1-2.motion3.json"
-				},
-				{
-					"File": "../../motion/motions/idle1-3.motion3.json"
-				},
-				{
-					"File": "../../motion/motions/idle1-4.motion3.json"
-				}
+				
 			],
 			"Stare_middle_left": [
 				{
