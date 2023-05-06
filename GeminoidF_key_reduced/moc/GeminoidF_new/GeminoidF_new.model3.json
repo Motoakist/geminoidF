@@ -144,8 +144,8 @@
 			"Target": "Parameter",
 			"Name": "EyeBlink",
 			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
+				"ParamEyeOpenL",
+				"ParamEyeOpenR"
 			]
 		},
 		{
