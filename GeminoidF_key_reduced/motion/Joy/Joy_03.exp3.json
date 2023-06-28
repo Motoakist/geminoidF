@@ -2,28 +2,28 @@
 	"Type": "Live2D Expression",
 	"Parameters": [
 		{
-			"Id": "ParamEyeLOpen_Happy",
-			"Value": 0.3,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamEyeROpen_Happy",
-			"Value": 0.3,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowL_Happy",
-			"Value": 0.3,
+			"Id": "ParamMouth_Happy",
+			"Value": 0.2,
 			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowR_Happy",
-			"Value": 0.3,
+			"Value": 0.2,
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamMouth_Happy",
-			"Value": 0.3,
+			"Id": "ParamBrowL_Happy",
+			"Value": 0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Happy",
+			"Value": 0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Happy",
+			"Value": 0.2,
 			"Blend": "Add"
 		}
 	]
